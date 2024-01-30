@@ -57,7 +57,6 @@ li {
 }
 
 body {
-  background-color: brown;
   background: linear-gradient(red, orange);
 }
 
@@ -82,15 +81,4 @@ p {
   display: flex;
   justify-content: center;
   color: white;
-}
-
-span .bold-text {
-  font-weight: bold;
-}
-
-footer {
-  text-align: center;
-  justify-content: center;
-  display: flex;
-  align-items: center;
 }
